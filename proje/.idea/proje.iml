@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (proje)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="nesne_tanima" />
+    <orderEntry type="module" module-name="venv" />
+    <orderEntry type="module" module-name="GoruntuIslemeProje" />
+    <orderEntry type="module" module-name="proje2" />
+    <orderEntry type="module" module-name="calisma" />
+    <orderEntry type="module" module-name="final_proje" />
+    <orderEntry type="module" module-name="deneme" />
+  </component>
+</module>

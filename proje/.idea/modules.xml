@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/GoruntuIslemeProje.iml" filepath="$PROJECT_DIR$/../.idea/GoruntuIslemeProje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python2023/calisma/.idea/calisma.iml" filepath="$PROJECT_DIR$/../../Python2023/calisma/.idea/calisma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GoruntuIslemePython/deneme/.idea/deneme.iml" filepath="$PROJECT_DIR$/../../GoruntuIslemePython/deneme/.idea/deneme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GoruntuIslemePython/final_proje/.idea/final_proje.iml" filepath="$PROJECT_DIR$/../../GoruntuIslemePython/final_proje/.idea/final_proje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nesne_tanima/.idea/nesne_tanima.iml" filepath="$PROJECT_DIR$/../nesne_tanima/.idea/nesne_tanima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proje.iml" filepath="$PROJECT_DIR$/.idea/proje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../proje2/.idea/proje2.iml" filepath="$PROJECT_DIR$/../proje2/.idea/proje2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../venv/.idea/venv.iml" filepath="$PROJECT_DIR$/../venv/.idea/venv.iml" />
+    </modules>
+  </component>
+</project>
